@@ -9,6 +9,18 @@ find "$SOURCE_DIR" -type f -name '*.md' -print0 | while IFS= read -r -d '' file;
     # Get the filename without the extension
     filename=$(basename "$file" .md)
 
+    #check if the file is a directory
+    if [ -d "$file" ]; then
+        echo "File $filename is a directory"
+        continue
+    fi
+
+    # check if the file is already in the target directory
+    if [ -f "$TARGET_DIR/$filename.md" ]; then
+        echo "File $filename.md already exists in the target directory"
+        continue
+    fi
+
     # Touch the file in the target directory
     touch "$TARGET_DIR/$filename.md"
 
