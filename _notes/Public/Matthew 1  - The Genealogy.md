@@ -1,7 +1,8 @@
 ---
 layout: note
+feed: show
 title: Matthew 1  - The Genealogy
-date: Wed Feb 14 06:37:17 PM EST 2024
+date: Wed Feb 14 06:41:23 PM EST 2024
 ---
 ## Prelude
 Matthew was a tax collector

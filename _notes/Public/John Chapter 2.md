@@ -1,7 +1,8 @@
 ---
 layout: note
+feed: show
 title: John Chapter 2
-date: Wed Feb 14 06:37:17 PM EST 2024
+date: Wed Feb 14 06:41:23 PM EST 2024
 ---
 ## Water into Wine
 

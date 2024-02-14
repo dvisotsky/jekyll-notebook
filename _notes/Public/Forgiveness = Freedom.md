@@ -1,7 +1,8 @@
 ---
 layout: note
+feed: show
 title: Forgiveness = Freedom
-date: Wed Feb 14 06:37:17 PM EST 2024
+date: Wed Feb 14 06:41:23 PM EST 2024
 ---
 Key verse: Colossians 3:12-13
 >12 Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience. 13 Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.

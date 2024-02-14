@@ -16,6 +16,7 @@ find "$SOURCE_DIR" -type f -name '*.md' -print0 | while IFS= read -r -d '' file;
     {
         echo "---"
         echo "layout: note"
+        echo "feed: show"
         echo "title: $filename"
         echo "date: $(date)"
         echo "---"
