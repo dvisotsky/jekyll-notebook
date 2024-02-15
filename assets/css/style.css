@@ -6,9 +6,9 @@ layout: Stylesheet
 
 html,
 html[data-theme="light"] {
-    --color-heading-main: #d79921;
+    --color-heading-main: #fabd2f;
     --color-heading-sub: #689d6a;
-    --color-bold: #458588;
+    --color-bold: #d79921;
     --color-bg-main: #ebdbb2;
     --color-bg-sub: #3c3836;
     --color-text-main: #282828;
@@ -20,9 +20,9 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --color-heading-main: #d79921;
+    --color-heading-main: #fabd2f;
     --color-heading-sub: #689d6a;
-    --color-bold: #458588;
+    --color-bold: #d79921;
     --color-bg-main: #1d2021;
     --color-bg-sub: #282828;
     --color-text-main: #ebdbb2;
@@ -36,9 +36,9 @@ html[data-theme="dark"] {
 @media (prefers-color-scheme: dark) {
     html,
     html[data-theme="dark"] {
-        --color-heading-main: #d79921;
+        --color-heading-main: #fabd2f;
         --color-heading-sub: #689d6a;
-        --color-bold: #458588;
+        --color-bold: #d79921;
         --color-bg-main: #1d2021;
         --color-bg-sub: #282828;
         --color-text-main: #ebdbb2;
@@ -50,9 +50,9 @@ html[data-theme="dark"] {
     }
 
     html[data-theme="light"] {
-        --color-heading-main: #d79921;
+        --color-heading-main: #fabd2f;
         --color-heading-sub: #689d6a;
-        --color-bold: #458588;
+        --color-bold: #d79921;
         --color-bg-main: #282828;
         --color-bg-sub: #3c3836;
         --color-text-main: #ebdbb2;
@@ -186,7 +186,7 @@ cite a {
 b,
 strong {
     font-weight: 600;
-    color: var(--color-bold);
+    color: var(--color-heading-sub);
 }
 
 /* 03. Layout */
