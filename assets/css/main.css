@@ -168,7 +168,7 @@ legend,
 textarea,
 pre,
 iframe,
-hr,
+hr
 {
   margin: 0;
   padding: 0; 
@@ -253,8 +253,8 @@ a {
   cursor: pointer;
   text-decoration: none; }
   a strong {
-    color: currentColor; }
-   }
+    color: currentColor; 
+  }
 
 img {
   height: auto;
@@ -500,13 +500,14 @@ a.has-text-black:hover, a.has-text-black:focus {
   background-color: #0a0a0a !important; }
 
 .has-text-light {
-  color: var(--color-bg-main); !important; }
+  color: var(--color-bg-main) !important;
+ }
 
 a.has-text-light:hover, a.has-text-light:focus {
   color: #dbdbdb !important; }
 
 .has-background-light {
-  background-color: var(--color-bg-main); !important; }
+  background-color: var(--color-bg-main) !important; }
 
 .has-text-dark {
   color: var(--color-text-main) !important; }
@@ -1147,7 +1148,7 @@ ol p {
   margin-block: 0;
 }
   .content ul ul {
-    list-style-type: ;
+    list-style-type: 'none';
     margin-top: 0.5em;
     margin-bottom: -1rem;
     padding-left: 1.5rem;}
