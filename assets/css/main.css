@@ -272,7 +272,7 @@ span {
   font-weight: inherit; }
 
 strong {
-  color: var(--color-text-main);
+  color: var(--color-bold);
   font-weight: 700; }
 
 fieldset {
