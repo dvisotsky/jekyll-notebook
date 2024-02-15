@@ -27,7 +27,6 @@ find "$SOURCE_DIR" -type f -name '*.md' -print0 | while IFS= read -r -d '' file;
     # Insert front matter
     {
         echo "---"
-        echo ""
         echo "feed: show"
         echo "title: $filename"
         echo "date: $(date)"
