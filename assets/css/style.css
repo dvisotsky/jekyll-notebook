@@ -187,6 +187,8 @@ b,
 strong {
     font-weight: 600;
     color: var(--color-heading-sub);
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
 }
 
 /* 03. Layout */
