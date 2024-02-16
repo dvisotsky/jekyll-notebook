@@ -16,10 +16,10 @@ find "$SOURCE_DIR" -type f -name '*.md' -print0 | while IFS= read -r -d '' file;
     fi
 
     # check if the file is already in the target directory
-    if [ -f "$TARGET_DIR/$filename.md" ]; then
-        echo "File $filename.md already exists in the target directory"
-        continue
-    fi
+    # if [ -f "$TARGET_DIR/$filename.md" ]; then
+        # echo "File $filename.md already exists in the target directory"
+        # continue
+    # fi
 
     # Touch the file in the target directory
     touch "$TARGET_DIR/$filename.md"
@@ -29,7 +29,8 @@ find "$SOURCE_DIR" -type f -name '*.md' -print0 | while IFS= read -r -d '' file;
         echo "---"
         echo "feed: show"
         echo "title: $filename"
-        echo "date: $(date)"
+        # set date based on the file's last modified date
+        echo "date: $(date -r "$file" "+%Y-%m-%d %H:%M:%S %z")"
         echo "---"
     } >"$TARGET_DIR/$filename.md"
 

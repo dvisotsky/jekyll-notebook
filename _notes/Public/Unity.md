@@ -1,16 +1,17 @@
 ---
 feed: show
 title: Unity
-date: Wed Feb 14 06:41:23 PM EST 2024
+date: 2023-12-08 17:39:37 -0500
 ---
-
 **Introduction**
-#bible_study #lesson
+#bible_study #lesson 
 Board game Go
 
 Earliest records are from the 4th Century BC; it was being played in China at the same time as Jesus was preaching in the Middle East.
 
-The game is simple:
+  
+
+The game is simple: 
 
 - Take turns placing stones on the board
 - Surrounding a group of stones captures them
@@ -18,25 +19,26 @@ The game is simple:
 - They must have a common goal and deep reliance on each other to succeed
 - None of them can make it on their own, their strength comes from each other
 
-And though a man might prevail against one who is alone, two will withstand him - a threefold cord is not quickly broken.
-
+And though a man might prevail against one who is alone, two will withstand him - a threefold cord is not quickly broken. 
 - Ecclesiastes 4:12
 
-A rope is not called “a bunch thread,” the individual strands come together to make something stronger and are recognized by their whole, not individual parts.
+  
+A rope is not called “a bunch thread,” the individual strands come together to make something stronger and are recognized by their whole, not individual parts. 
 
 Unity comes through giving up self for the sake of others
 
 Nehemiah 2 - 4
 
-Context:
+Context: 
 
 Babylon: Capital of the Persian Empire - 400s BC
 
-Nehemiah - a Jew living in Babylon, has a desire to go back to his roots and rebuild Jerusalem.
+Nehemiah - a Jew living in Babylon, has a desire to go back to his roots and rebuild Jerusalem. 
 
 Gets permission from Artaxerxes and sets out to restore his heritage
 
 Sanballat - a Samaritan, opposed the restoration of the walls.
+
 
 Nehemiah had a vision of his city restored.
 
@@ -44,11 +46,14 @@ He organized his people to have specific tasks and strive towards a common goal.
 
 Nehemiah is remembered as the one who restored the wall. The Israelites gave up their independence for the sake of unity and progress.
 
+  
+
 Photo Mosaic - individual photos are blurred together to shape a bigger picture.
 
-When unity happens, individuals fade into the common goal.
+When unity happens, individuals fade into the common goal. 
 
-Sanballat is remembered because he opposed Nehemiah.
+Sanballat is remembered because he opposed Nehemiah. 
+
 
 How can you personally strive towards unity?
 
@@ -63,5 +68,5 @@ What takes effort is being caring towards everyone - giving up your pride, time,
 
 Ecclesiastes  4:12
 
-#bible_study
-#lesson
+#bible_study 
+#lesson 

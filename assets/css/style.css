@@ -6,9 +6,9 @@ layout: Stylesheet
 
 html,
 html[data-theme="light"] {
-    --color-heading-main: #fabd2f;
+    --color-heading-main: #b16286;
     --color-heading-sub: #689d6a;
-    --color-bold: #d79921;
+    --color-bold: #8f3f71;
     --color-bg-main: #ebdbb2;
     --color-bg-sub: #3c3836;
     --color-text-main: #282828;
@@ -50,12 +50,12 @@ html[data-theme="dark"] {
     }
 
     html[data-theme="light"] {
-        --color-heading-main: #fabd2f;
+        --color-heading-main: #b16286;
         --color-heading-sub: #689d6a;
-        --color-bold: #d79921;
-        --color-bg-main: #282828;
-        --color-bg-sub: #3c3836;
-        --color-text-main: #ebdbb2;
+        --color-bold: #8f3f71;
+        --color-bg-main: #ebdbb2;
+        --color-bg-sub: #ddddae;
+        --color-text-main: #282828;
         --color-text-sub: #a89984;
         --color-text-link: #83a598;
         --color-border-dark: #282828;
@@ -193,10 +193,12 @@ strong {
 
 html {
     scroll-behavior: smooth;
+    transition: 0.2s;
 }
 
 body {
     counter-reset: sidenote-counter;
+    transition: 0.2s;
 }
 
 .section {
@@ -333,6 +335,7 @@ ul ul {
     padding: 1rem;
     border-bottom: 1px solid var(--color-text-link);
     background-color: var(--color-bg-sub);
+    transition: 0.2s;
 }
 
 .notelist-feed a {
@@ -991,7 +994,15 @@ hr {
     font-size: 13px;
 }
 
-.content {}
+.page-title {
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-bottom: 1px solid var(--color-text-main);
+}
+.content {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
 
 .content a {
     color: var(--color-text-link);
@@ -1556,6 +1567,7 @@ a[href^="http"] {
 .home-sub-text {
     padding-top: 2rem;
     color: var(--color-text-sub);
+    flex-grow: 1;
 }
 
 /*Home page links and decors*/
@@ -1600,6 +1612,9 @@ a[href^="http"] {
 
 .home-intro {
     padding: 5% 10%;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 @media screen and (max-width:320px)
