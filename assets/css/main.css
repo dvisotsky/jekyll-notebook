@@ -1573,7 +1573,9 @@ fieldset[disabled] .button {
 }
 
 .content {
+  margin-bottom: 3rem;
 }
+
 .content li + li {
   margin-top: 0em;
 }
