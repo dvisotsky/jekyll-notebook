@@ -1,8 +1,3 @@
----
-feed: show
-title: Integrity Outline
-date: 2024-02-19 22:31:00 -0500
----
 #bible_study #lesson #integrity
 
 **Study 1: Created in God's Image**

@@ -1,8 +1,3 @@
----
-feed: show
-title: Matthew 1  - The Genealogy
-date: 2024-02-19 22:31:00 -0500
----
 ## Prelude
 Matthew was a tax collector
 - educated
@@ -17,6 +12,8 @@ Matthew was a tax collector
 	- Abraham - the origin of Israel as a nation
 	- David - the Kingdom era of Israel
 	- Exile - when there were no Israelite rulers over Israel and the nation was conquered
+	 - 14 because the numeric value of the Hebrew letters to spell "David" add up to 14
+		  - ד ו ד, dalet + waw + dalet, 4+6+4 = 14
 - Important figures include Abraham, Ruth, David, Solomon
 - not all men
 	- Tamar: 
@@ -44,29 +41,17 @@ Who is Abraham? *The father of Israel*
 ## David's 7
 - Shows that Jesus is of a royal line
 - David was the youngest son of Jesse but became one of the greatest kings of Israel, only comparable to his son
-- **The wife of Uriah** (Bathsheba)
+- **The wife of uriah** (Bathsheba)
 	- Wife of a Hitite
 	- Adulteress
 ## Exile's 7
 - It's impressive that these names are here at all, Israel had been upturned and conquered by Babylon
 - Isaiah 53:2-3
 	- He grew up before him like a tender shoot, and like a root out of dry ground. He had no beauty or majesty to attract us to him, nothing in his appearance that we should desire him.
- - Ends with the 5th woman in the genealogy, Mary
-	 - Unusual birth, seemingly scandalous from a secular perspective
 
-## Explanation
-- 3 for the trinity
- - 14 because the numeric value of the Hebrew letters to spell "David" add up to 14
-		- ד ו ד, dalet + waw + dalet, 4+6+4 = 14
-		- Solidifies Jesus as the new and long awaited King
 ## Conclusion
 **Jesus:**
 	- an Israelite and can be traced back to Abraham
 	- is royalty and is a descendant of David
 	- will not align with the Messiah that the people thought he would be
- 
-**God the Father**
-	- keeps His promises
-	- can make great things out of mistakes 
- 
  

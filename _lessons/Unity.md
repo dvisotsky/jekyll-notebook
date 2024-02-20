@@ -1,8 +1,3 @@
----
-feed: show
-title: Unity
-date: 2024-02-19 22:31:00 -0500
----
 **Introduction**
 #bible_study #lesson 
 Board game Go

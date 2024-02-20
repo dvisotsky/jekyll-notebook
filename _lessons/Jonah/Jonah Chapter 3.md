@@ -1,8 +1,3 @@
----
-feed: show
-title: Jonah Chapter 3
-date: 2024-02-19 22:31:00 -0500
----
 #lesson #bible_study #Jonah 
 
 ## Quick Recap

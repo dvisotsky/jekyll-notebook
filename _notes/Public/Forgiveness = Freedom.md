@@ -1,7 +1,7 @@
 ---
 feed: show
 title: Forgiveness = Freedom
-date: 2024-02-13 20:12:34 -0500
+date: 2024-02-19 22:31:00 -0500
 ---
 Key verse: Colossians 3:12-13
 >12 Therefore, as God’s chosen people, holy and dearly loved, clothe yourselves with compassion, kindness, humility, gentleness and patience. 13 Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you.
@@ -12,6 +12,7 @@ Opening question:
 - How do you react?
 	- I'll get passive-aggressive and make sure that guy knows when he's at fault for something
 
+Today's topic is Forgiveness, you are very familiar with the topic and have all the Biblical answers, so we'll watch a clip from a movie instead of repeating something you've heard plenty of times before.
 Kicking it up a notch, we'll go from pet peeves to criminal activity
 ## Introducing Jean Valjean
 Les Misérables clip: 6:39-11:00
@@ -33,7 +34,6 @@ Les Misérables clip: 6:39-11:00
 
 **Romans 12:19-21**
 > 19Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, “Vengeance is mine, I will repay, says the Lord.” 20To the contrary, “if your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head.” 21Do not be overcome by evil, but overcome evil with good.
-
 ## Closing questions:
  - What is the biggest hinderance to the spread of Christianity in our culture?
 	 - fake Christians

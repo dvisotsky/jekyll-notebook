@@ -1,8 +1,3 @@
----
-feed: show
-title: Your Turn
-date: 2024-02-19 22:31:00 -0500
----
 You will be creating your own Bible Study today on one of these historical figures:
 
 - Samson

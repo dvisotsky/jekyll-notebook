@@ -1,7 +1,7 @@
 ---
 feed: show
 title: Matthew 26
-date: 2024-02-17 15:38:58 -0500
+date: 2024-02-19 22:37:45 -0500
 ---
 # Setting the scene
 It is 2 days before Passover
@@ -28,7 +28,12 @@ Jesus and his disciples share a meal at an unnamed man's house and Jesus says, "
 - Judas chose something material over his relationship with Jesus
 	- any time we choose *things* over *people*, we lose
 
+Judas and Peter are not that different. Peter also betrayed Jesus, denied him 3 times, and went back to fishing after Jesus died as if the last 3 years didn't happen.
 
+We have almost finished the book of Matthew and gone on the journey with Jesus just as the disciples did. 
+Are we different than the disciples in our understanding of Jesus' mission?
+If we are less confused about what Jesus' goal than the disciples were, do our actions and values reflect that?
+It is up to us to either take what we've learned to heart and live it out or go back to our regular lives as if we don't know Jesus.
 
 
 

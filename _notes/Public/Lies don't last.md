@@ -1,7 +1,7 @@
 ---
 feed: show
 title: Lies don't last
-date: 2024-02-13 20:12:34 -0500
+date: 2024-02-19 22:31:00 -0500
 ---
 > Better is a little with righteousness than great revenues with injustice.
 > Proverbs 16:8
