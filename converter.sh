@@ -1,7 +1,7 @@
 # convert markdown to jekyll note
 # Usage: ./converter.sh <markdown file>
 
-SOURCE_DIR=~/Documents/notebook/Studies
+SOURCE_DIR=~/Dropbox/notebook/Studies
 TARGET_DIR=./_notes/Public
 
 # Loop through each Markdown file in the source directory and its subdirectories
