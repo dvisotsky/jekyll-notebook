@@ -9,6 +9,8 @@
 - Now the Passover is almost here and people are wondering if Jesus will show up
 - As we jump in, Jesus is back in Bethany where he raised Lazarus
 ## Mary Anoints Jesus
+*read verses 1 - 5*
+
 > Mary therefore took a pound of expensive ointment made from pure nard, and anointed the feet of Jesus and wiped his feet with her hair. The house was filled with the fragrance of the perfume.
 > *- John 12:3*
 
@@ -24,13 +26,43 @@ In her actions, Mary shows that she believes her expensive ointment is good enou
 Not only that, but women in ancient Israel *rarely let down their hair* - it was a mark of loose morals. But here she does not stop to think of what the public reaction would be; *her only goal is to give everything she can to Jesus* while He is still with them.
 
 ### What makes Judas comment?
-Judas breaks the awkward silence
 - Who's is the ointment? *Mary's*
 - Who is being anointed? *Jesus*
 - So how does Judas fit in the picture?
-	- He doesn't. How often do we butt in with opinions and advice when no one asked? This comes from a place of pride - you think you know better 
+	- He breaks the awkward silence after Mary's gesture
+	- He doesn't. How often do we butt in with opinions and advice when no one asked? This comes from a place of pride - he thinks he knows better 
 	- He doesn't understand the gesture because he doesn't believe like Mary does
-	- 
+	- How often do you judge a situation that has nothing to do with you?
+
+## Judas' thoughts
+*read verses 6 - 8*
+In the moment no one knew what Judas was actually thinking except for Judas himself and Jesus.
+But on top of butting in, Judas' heart is not in the right place and his thinking is twisted towards money and self-gain.
+
+### Why doesn't Jesus care about the poor?
+Judas is selfish and a thief, but Jesus is the Son of God - so why doesn't he side with Judas here? Couldn't more people have been helped if the money was used to help the poor?
+
+> "For the poor you always have with you, but you do not always have me."
+
+Mary knew on some level that Jesus would not be with them for much longer (she is preparing him for burial) so she is doing whatever she can while He is still here to honor him.
+
+Read the room Judas, Jesus is going to die soon and you're worried about finances.
+**Priorities**
+
+## The Plot to Kill Jesus and Lazarus
+A context reminder about the storm brewing around Jesus.
+We are close to the end of this journey.
+
+## The Triumphal Entry
+*read verses 12 -19*
+
+### Why is it called the Triumphal entry?
+Triumphal: made, carried out, or used in celebration of a great victory or achievement.
+
+Because this was the time of the Passover, Jerusalem would already be filled with visitors coming to celebrate the feast.
+
+
+
 
 
 
