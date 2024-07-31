@@ -79,4 +79,14 @@ Who do you relate to out of this cast of characters?
 
 Most of us don’t connect with the Pharisees - we are not against Jesus and don’t think he’s here to ruin everything. 
 
-We are the crowd - happy to praise Jesus when we think he’s on our side but unwilling to step in when Jesus is wrongfully beaten and crucified. 
+We are the crowd - happy to praise Jesus when we think he’s on our side but unwilling to step in when Jesus is wrongfully beaten and crucified.
+
+Closing question:
+### Do you understand who Jesus is and what it means to follow Him?
+
+- When He commands you to love your neighbor, do you do that when you need new friends or when your neighbor costs you the volleyball game?
+- When the Bible commands you to not slander (gossip) do you find a way to justify talking about others or are you the one to stand up for those who are being whispered about?
+- Do you care for those on the fringes of friend groups or do you judge others while making the same mistakes they do?
+
+Jesus was empathetic and always used his words to raise people up - sometimes literally.
+
