@@ -56,13 +56,27 @@ We are close to the end of this journey.
 ## The Triumphal Entry
 *read verses 12 -19*
 
+Who are the main characters?
+- Jesus
+- Pharisees
+- Disciples & close friends
+- The crowd
 ### Why is it called the Triumphal entry?
 Triumphal: made, carried out, or used in celebration of a great victory or achievement.
 
 Because this was the time of the Passover, Jerusalem would already be filled with visitors coming to celebrate the feast.
 
+They celebrate the coming king that they hope will free them or at least feed them. 
 
+Palm branches have been used since the time of the Macabees as a national symbol. 
 
+*The world has gone after him*
+The Pharisees feel like they’re losing the fight of popularity.
 
+But just like the crowd, they don’t truly understand what Jesus is bringing and what it means to “go after him”
 
+Who do you relate to out of this cast of characters?
 
+Most of us don’t connect with the Pharisees - we are not against Jesus and don’t think he’s here to ruin everything. 
+
+We are the crowd - happy to praise Jesus when we think he’s on our side but unwilling to step in when Jesus is wrongfully beaten and crucified. 
