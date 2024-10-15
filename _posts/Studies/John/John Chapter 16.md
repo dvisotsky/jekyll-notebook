@@ -76,4 +76,4 @@ Jesus did not care about ethnicity, politics, or social status. He only cared ab
 # Part 1 Conclusion 
 - The world is against us. The lies we are told to divide us are intended to disrupt unity and love.
 - Jesus has always had a plan, and is still with us to help us on our journey.
-- 
+- Connection with the Holy Spirit will lead us on the right path. 
