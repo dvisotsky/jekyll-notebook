@@ -1,3 +1,4 @@
+#john #bible_study 
 ### Recap
 - Why does God make us wait?
 	- Jesus knew Lazarus was sick but did not rush to his side, He put all of Lazarus' family and friends through a lot of pain by letting Lazarus die.

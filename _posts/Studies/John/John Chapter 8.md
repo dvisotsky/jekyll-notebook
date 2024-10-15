@@ -1,3 +1,4 @@
+#john #bible_study 
 ## The Adulterous Woman
 *verses 1-11*
 The Pharisees wanted Jesus to either break the law, or seem like a cruel man.

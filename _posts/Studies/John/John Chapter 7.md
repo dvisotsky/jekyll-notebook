@@ -1,3 +1,5 @@
+#john #bible_study 
+
 **Quick recap**
 What happened in chapter 6, what was the main point?
 - Jesus feeds 5000

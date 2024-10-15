@@ -1,3 +1,5 @@
+#john #bible_study 
+
 *Samaritan woman at Jacob's well*
 # Part I (verses 1-17)
  *Main points*
