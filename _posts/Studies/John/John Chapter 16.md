@@ -82,5 +82,6 @@ Jesus did not care about ethnicity, politics, or social status. He only cared ab
 - **The world against you:** don’t let a good  get in the way of great. Tradition is good. Volleyball is good, fellowship is good, having close friends is good. 
 - **Conviction:** reflect often. Recalibrate yourself if you feel empty. 
 
-# Part 2
+# Sorrow into Joy
+
 
