@@ -105,6 +105,23 @@ Jesus will come back, and they will again see and understand. Better this time.
 
 ### Birthing pains
 _verses 19 - 22_
+"You will be sorrowful" - Jesus knows that hard times are coming. Does he have the power to stop them?
+
+*Question: If Jesus could stop all this pain, for himself and His disciples, why didn't he?*
+
+> Do you not realize that _I could call_ on my Father, and at once he _would_ provide me with more than twelve _legions of angels_? 
+> - Matthew 26:53
+
+Jesus could have avoided their sadness and his own pain.
+But as the cliche goes - **no pain, no gain**.
+And in the next few chapters we will see that the biggest gains require the most pain.
+
+*So is pain necessary? If so, why?*
+ > "The crucible for silver and the furnace for hold, but the Lord test the heart". 
+ > _- Proverbs 17:3_
+
+Difficulties show us who we really are and how much we care about other people.
+Jesus is not here to help you avoid difficult times, His mission it to make you know how to navigate them in confidence and come out stronger than before.
 
 
 ## I have Overcome
