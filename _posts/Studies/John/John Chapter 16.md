@@ -1,15 +1,17 @@
 *2024-10-14* #john #bible_study 
 ___
-# Recap
+# Part 1
+*verses 1 - 15*
+## Recap
 I am the true vine.
 What happens to unfruitful branches?
 What happens to fruitful ones?
-# Context
+## Context
 *Where is Jesus?* They are all still in the same room they had dinner in. It's probably getting late.
 *What time of year is it?* Passover is celebrated in the beginning of April
 
 *What has Jesus been talking about?* "I have said these things to keep you from falling away."
-# The world against you
+## The world against you
 John 16:1-4
 
 The disciples will not have an easy life.
@@ -28,7 +30,7 @@ I like Magneto - he is a mutant and survivor of the holocaust fighting for the r
 
 The villain thinks their acts are justified. The villain does what needs to be done for the  ultimate good - the definition of *good* being whatever they decide.
 
-# For your good
+## For your good
 John 16:5-15
 
 Jesus again tells them that he must leave, but it's for the ultimate good of the disciples.
@@ -45,7 +47,7 @@ The disciples went on to carry Christianity to the known world and were able to 
 
 *What does the Spirit do according to Jesus?*
 John 16:8-11
-## Convict of sin
+### Convict of sin
 **Because they do not believe in me**
 Sin is a lack of faith in God's plan.
 
@@ -56,7 +58,7 @@ Things that are normal by the world's standard will be out of the question for y
 What are the cracks that he's found in the wall to slip through?
 
 Things like laziness, slander, and apathy will set off alarms and you will know when you are straying from God's plan.
-## Convict of righteousness
+### Convict of righteousness
 **Because I go to the Father, and you will see me no longer**
 We see Jesus as righteous. But the majority of people in his time saw him as a rebel and imposter.
 
@@ -67,23 +69,44 @@ What the world considers to be righteous and what Jesus consider righteous are q
 
 We are told to let God handle vengeance, and our job is to love people. Our righteousness is shown through our humility and love, not through having power over others or being better by comparison.
 Righteousness does not come from money or status, but from how you treat others.
-## Convict of judgement
+### Convict of judgement
 **Because the ruler of this world is judged**
 The Devil is awaiting judgement as is everyone who does not know Jesus.
 As Christians, we know that we are on the winning side, and it's our duty to love those around us enough to save them from this judgement.
 Strengthen each other for the journey and make disciples of the loners and outcasts in your classes and workplaces. 
 Jesus did not care about ethnicity, politics, or social status. He only cared about the well-being of the people around him and the status of their soul.
-# Part 1 Conclusion 
+## Part 1 Conclusion 
 - The world is against us. The lies we are told to divide us are intended to disrupt unity and love.
 - Jesus has always had a plan, and is still with us to help us on our journey.
 - Connection with the Holy Spirit will lead us on the right path. 
 
-# Part 1 Recap
+# Part 2
+*verses 16 - 33*
+## Part 1 Recap
 - **The world against you:** don’t let a good  get in the way of great. Tradition is good. Volleyball is good, fellowship is good, having close friends is good. 
-- **Conviction:** reflect often. Recalibrate yourself if you feel empty. 
+- **Conviction:** reflect often. Recalibrate yourself if you feel empty - connect with Jesus and see what you need to adjust. 
 
-# Sorrow into Joy
+## Sorrow into Joy
+*verse 16 - 24*
+### Do you see me?
+*verses 16 - 18*
+"Jesus, we do not understand"
+> The disciples are confused - Jesus has not yet instituted a new kingdom on Earth as it was prophesied. If He is still to make it happen why is he going away? And if that was never His intent then why did he come in the first place?
+
+i-see-you.gif
+ ![[avatar-movie-i-see-you.gif]]
+
+**A little while, and you will not see me**
+> "See me" - [_theōreō_](https://www.blueletterbible.org/lexicon/g2334/nkjv/tr/0-1/) 
+> Discern who I am. The disciples will become discouraged and scattered because it will seem like Jesus and his mission are gone.
+
+**And again a little while, and you _will_ see me**
+Jesus will come back, and they will again see and understand. Better this time.
+
+### Birthing pains
+_verses 19 - 22_
 
 
-# I have Overcome
+## I have Overcome
 
+ 
