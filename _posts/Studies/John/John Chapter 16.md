@@ -123,7 +123,38 @@ And in the next few chapters we will see that the biggest gains require the most
 Difficulties show us who we really are and how much we care about other people.
 Jesus is not here to help you avoid difficult times, His mission it to make you know how to navigate them in confidence and come out stronger than before.
 
+It's easy to be kind when you had enough sleep, a solid breakfast, and traffic is light.
+But how do you treat people that have nothing to offer in return for your attention, time, and kindness?
 
-## I have Overcome
+### Ask and Receive
+*verses 23 - 24*
+> "Whatever you ask of the Father in my name, he will give it to you."
+> *- John 15:23*
 
- 
+If you need help in doing God's will, He will never withhold it from you.
+>  "So that your joy may be full."
+
+The greatest joy is fulfilling the purpose you were created for. 
+
+## Overcoming the World
+*verses 25 -33*
+At the beginning of this section Jesus summarized his mission:
+- I came from the Father - Jesus is divine
+- Into the world - Jesus loved the world enough to become a part of it
+- Again I leave the world and go to the Father - Jesus' mission has a goal and he is soon to complete it
+
+> Now we are sure that You know all things, and have no need that anyone should question You. By this we believe that You came forth from God.
+> *- John 16:30*
+
+Now, after Jesus has washed their feet and spent the last 3 chapters encouraging them, they are ready to believe.
+They are excited and eager, but Jesus sees past this burst of enthusiasm: 
+> Do you now believe? Indeed the hour is coming, yes, has now come, that you will be scattered, each to his own, and will leave Me alone.
+> - John 16:31
+
+It is easy to believe when things are going well, but we just talked about in the previous section that difficulties are necessary to make us stronger.
+There's no point in being nice if you only do it when it's convenient. That's just manipulation.
+
+The conclusion here though is positive:
+> Take heart, I have overcome the world.
+
+Jesus has already won.
