@@ -38,12 +38,12 @@ generate_index() {
     # Add a "back" link to the index.md in the parent directory
     if [[ "$dir" != "$(pwd)" ]]; then
         local temp_index_file=$(mktemp)
-        echo "- [Back to parent index](../index.md)" > "$temp_index_file"
+        echo "- [Back](../index.md)" > "$temp_index_file"
         cat "$index_file" >> "$temp_index_file"
         mv "$temp_index_file" "$index_file"
     fi
     if [[ "$dir" != "$(pwd)" ]]; then
-        echo "- [Back to parent index](../index.md)" >> "$index_file"
+        echo "- [Back](../index.md)" >> "$index_file"
     fi
 }
 
