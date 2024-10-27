@@ -1,13 +1,3 @@
----
-feed: show
-title: Romans  12, verses 1-2.md
-date: 2024-10-27
----
----
-feed: show
-title: Romans  12, verses 1-2.md
-date: 2024-10-27
----
 [Back](./index.md)
 
 #bible_study #lesson 

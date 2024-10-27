@@ -1,13 +1,3 @@
----
-feed: show
-title: The Bible is Our Guide.md
-date: 2024-10-27
----
----
-feed: show
-title: The Bible is Our Guide.md
-date: 2024-10-27
----
 [Back](./index.md)
 
 Awana TnT 2 Lesson - 2.7

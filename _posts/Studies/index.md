@@ -1,13 +1,3 @@
----
-feed: show
-title: index.md
-date: 2024-10-27
----
----
-feed: show
-title: index.md
-date: 2024-10-27
----
 - [Back](../index.md)
 # Index of Studies
 
