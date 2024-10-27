@@ -1,5 +1,5 @@
 - [Back](../index.md)
-# Index of Studies
+# Studies
 
 - [Friendship.md](./Friendship.md)
 - [Integrity](./Integrity/index.md)

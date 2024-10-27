@@ -1,5 +1,5 @@
 - [Back](../index.md)
-# Index of Jonah
+# Jonah
 
 - [Jonah Chapter 1.md](./Jonah Chapter 1.md)
 - [Jonah Chapter 3.md](./Jonah Chapter 3.md)

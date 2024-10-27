@@ -1,5 +1,5 @@
 - [Back](../index.md)
-# Index of Places
+# Places
 
 - [Camp North End.md](./Camp North End.md)
 - [Charlotte.md](./Charlotte.md)

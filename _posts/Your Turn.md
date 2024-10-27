@@ -8,6 +8,11 @@ feed: show
 title: Your Turn.md
 date: 2024-10-27
 ---
+---
+feed: show
+title: Your Turn.md
+date: 2024-10-27
+---
 [Back](./index.md)
 
 You will be creating your own Bible Study today on one of these historical figures:

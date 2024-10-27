@@ -8,6 +8,11 @@ feed: show
 title: Studies.md
 date: 2024-10-27
 ---
+---
+feed: show
+title: Studies.md
+date: 2024-10-27
+---
 [Back](./index.md)
 
 [<- Home](Home.md)

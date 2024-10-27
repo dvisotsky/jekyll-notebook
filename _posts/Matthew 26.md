@@ -8,6 +8,11 @@ feed: show
 title: Matthew 26.md
 date: 2024-10-27
 ---
+---
+feed: show
+title: Matthew 26.md
+date: 2024-10-27
+---
 [Back](./index.md)
 
 # Setting the scene
