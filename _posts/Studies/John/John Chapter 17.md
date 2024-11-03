@@ -27,3 +27,8 @@ Is anything missing?
 	 as we also have forgiven our debtors.  
 	And lead us not into temptation, but deliver us from evil.
 
+**Does Jesus’ prayer match the template of the Lord’s Prayer?**
+
+
+We are also to call God our Father - Galatians 4:6
+
