@@ -27,3 +27,12 @@ Who tried to stand up for Jesus?
 Does God need our protection?
 Peter thought so, and he had the right intentions, but his mission was not aligned with Jesus'
 
+## In Denial
+There are 3 times that Peter denies Jesus.
+Find them and write down Peter's reasoning for each time.
+
+1. Called out by the girl watching the door. She doesn't know him but his knee-jerk reaction is to deny Jesus.
+2. Warming by the fire - close enough to see what happens but far enough away to avoid   trouble. Peter gets called out by a relative of the man who's ear he chopped off.
+3. Now the people around him are pretty sure that he's with Jesus. It's probably time to give up on the bluff. But no, Peter charges on and denies Jesus again.
+
+ 
