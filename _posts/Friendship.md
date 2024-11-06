@@ -1,6 +1,11 @@
 ---
 feed: show
 title: Friendship.md
+date: 2024-11-06
+---
+---
+feed: show
+title: Friendship.md
 date: 2024-11-05
 ---
 ---
