@@ -37,12 +37,16 @@ Find them and write down Peter's reasoning for each time.
 
  
 ## On Trial
-Fair trial?
-Look up Matthew 26:1-5
-Was this the Pharisees plan?
-What evidence do they bring against Jesus?
-How many court trials happen at night?
+Do the officials know what Jesus is being accused of?
+Does Jesus know what he's being accused of?
+Do the Pharisees know why they arrested Jesus? What are the charges?
 
-Everything is going sideways. 
+Fair trial?
+Look up _Matthew 26:1-5_
+Was this the Pharisees plan?
+
+No, everything is going sideways. 
 This is a chaotic arrest and trial, and at the eye of the storm is Jesus. 
 Confident and calm.
+
+The truth does not need noise or anger. The next time you try to justify anger, slander, or anything that tries to put others down, examine your justification. Is it as hollow as the Pharisees's reasons for bringing Jesus to court?
