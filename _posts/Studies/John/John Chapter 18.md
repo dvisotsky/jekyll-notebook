@@ -36,3 +36,13 @@ Find them and write down Peter's reasoning for each time.
 3. Now the people around him are pretty sure that he's with Jesus. It's probably time to give up on the bluff. But no, Peter charges on and denies Jesus again.
 
  
+## On Trial
+Fair trial?
+Look up Matthew 26:1-5
+Was this the Pharisees plan?
+What evidence do they bring against Jesus?
+How many court trials happen at night?
+
+Everything is going sideways. 
+This is a chaotic arrest and trial, and at the eye of the storm is Jesus. 
+Confident and calm.
