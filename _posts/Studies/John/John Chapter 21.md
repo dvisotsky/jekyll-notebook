@@ -30,9 +30,17 @@ _Who prepared the fire, fish, and bread?_
 
 Jesus is always inviting. These disciples fled and scattered not long ago, yet here Jesus again shows his strength in humility.
 
-
-
-
 # Do you love me?
+_verses 15-19_
 
-Why did Jesus ask 3 times?
+*Q: What do you think Jesus is feeling here? Is there and hint of malice or vengeance?*
+No, only a desire for Peter to actually think about his answer and be truthful with himself.
+
+*Q: Why did Jesus ask 3 times?*
+Just like when he denied Jesus, Peter did not think clearly, at least not at first, when he answered.
+
+*Q: What did Jesus mean "feed my sheep?"*
+Peter's a fisherman, what does he know about sheep?
+
+
+
