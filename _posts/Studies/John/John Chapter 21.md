@@ -36,11 +36,18 @@ _verses 15-19_
 *Q: What do you think Jesus is feeling here? Is there and hint of malice or vengeance?*
 No, only a desire for Peter to actually think about his answer and be truthful with himself.
 
+*Q: What does Jesus mean by "more than these?" Who is Jesus referring to?*
+(Check out Matthew 26:33)
+
 *Q: Why did Jesus ask 3 times?*
 Just like when he denied Jesus, Peter did not think clearly, at least not at first, when he answered.
+
+*Q: Who else betrayed Jesus but did not receive restoration like Peter did?*
+Why didn't Judas become a missionary like the other disciples?
 
 *Q: What did Jesus mean "feed my sheep?"*
 Peter's a fisherman, what does he know about sheep?
 
-
+What does it mean for you to "Feed the sheep?"
+These are Sheep, not chickens. It is not enough to throw them feed. They need guidance and care.
 
