@@ -36,7 +36,7 @@ Find them and write down Peter's reasoning for each time.
 3. Now the people around him are pretty sure that he's with Jesus. It's probably time to give up on the bluff. But no, Peter charges on and denies Jesus again.
 
  
-## On Trial
+<<<<<<## On Trial
 Do the officials know what Jesus is being accused of?
 Does Jesus know what he's being accused of?
 Do the Pharisees know why they arrested Jesus? What are the charges?
@@ -50,3 +50,6 @@ This is a chaotic arrest and trial, and at the eye of the storm is Jesus.
 Confident and calm.
 
 The truth does not need noise or anger. The next time you try to justify anger, slander, or anything that tries to put others down, examine your justification. Is it as hollow as the Pharisees's reasons for bringing Jesus to court?
+>>>>>>>-Updated upstrea
+=
+>>>>>>> Stashed changes
