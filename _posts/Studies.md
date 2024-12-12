@@ -1,6 +1,11 @@
 ---
 feed: show
 title: Studies.md
+date: 2024-12-12
+---
+---
+feed: show
+title: Studies.md
 date: 2024-12-11
 ---
 ---

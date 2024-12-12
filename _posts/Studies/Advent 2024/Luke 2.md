@@ -46,8 +46,6 @@ Shouldn't the religious leaders know about this?
 
 **Q: What do you think she was pondering?**
 So much must be going through her head. Fear, joy, anxiety, trust.
-
-
 # The Temple
 >they brought Him to Jerusalem to present _Him_ to the Lord _- Luke 2:22_
 
