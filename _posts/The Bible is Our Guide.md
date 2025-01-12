@@ -1,6 +1,11 @@
 ---
 feed: show
 title: The Bible is Our Guide.md
+date: 2025-01-12
+---
+---
+feed: show
+title: The Bible is Our Guide.md
 date: 2025-01-11
 ---
 ---
