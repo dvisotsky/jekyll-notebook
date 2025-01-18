@@ -14,7 +14,7 @@ One of the places where Paul took early Christians to a place other than the syn
 Paul also indirectly caused a riot there (also Acts 19)
 
 
-# Spiritual Blessings in Christ
+# Part 1: Spiritual Blessings in Christ
 *verses 3 - 14*
 
 ## Blessed
@@ -68,7 +68,15 @@ Why it's mysterious: Why would God want connection with us? What can we possibly
 Not a decision made after you've balanced your good and bad actions, or once you've proven anything. God chose you before you even existed.
 He has decided you're worth it.
 
+*verses 13-14*
+> sealed with the promised Holy Spirit, who is the guarantee of our inheritance until we acquire possession of it, the praise of his glory.
 
+# Part 2: Thanksgiving and Prayer
 
+### Quick recap
+We are
+1. Blessed - spiritually blessed, not just materially. 
+2. Chosen - God's plan since the beginning was to unite humanity with himself. This gives us assurance that his plan is unwavering.
+3. Adopted - Christians are adopted children of God to receive an eternal inheritance.
 
-# Thanksgiving and Prayer
+**Love for all the saints**: Significantly, Paul gave thanks not for their love for God, but for their **love for all the saints**. The real evidence of God’s work in us is not the love we claim to have for Him, but our love for His people that others can see ([1 John 4:20](https://www.blueletterbible.org/kjv/1jo/4/20/s_1163020), [John 13:14](https://www.blueletterbible.org/kjv/jhn/13/14/s_1010014) and [John 13:34-35](https://www.blueletterbible.org/kjv/jhn/13/34-35/s_1010034)).
