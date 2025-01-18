@@ -1,3 +1,4 @@
+#bible_study #ephesians
 # Context
 
 Who wrote Ephesians? 
@@ -44,6 +45,11 @@ We see that there are many times where God decides what a person should be doing
 
 That being said, did anyone find a place in the Bible where God decides someone's eternal destiny? 
 We are given a role to play, but we can still choose to accept or deny eternity with God.
+
+From the people we looked at, we know that God can and will use all kinds of people. 
+But these people’s experiences are wildly different. Those who are against God do not have the same hope and assurance. 
+Even if their paths may be similar in difficulty, those with God draw strength from knowing their Creator.
+
 
 *verses 5-8*
 Here we see a list of things that God blesses his believers with.
