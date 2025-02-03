@@ -1,3 +1,8 @@
+---
+up: "[[John]]"
+prev: "[[John Chapter 18]]"
+---
+
 # Recap
 Jesus is alive!
 His mission is complete, but there are a few things to tidy up.

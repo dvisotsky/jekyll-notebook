@@ -1,4 +1,9 @@
-#bible_study #ephesians
+---
+up: "[[Ephesians 1]]"
+next: "[[Ephesians 3]]"
+tags:
+  - bible_study
+---
 # Context
 
 Who wrote Ephesians? 
@@ -16,8 +21,7 @@ Paul also indirectly caused a riot there (also Acts 19)
 
 
 # Part 1: Spiritual Blessings in Christ
-*verses 3 - 14*
-
+*verses 1 - 14*
 ## Blessed
 *verse 3*
 > Praise be to God who has blessed us with every spiritual blessing in Christ.
@@ -79,10 +83,82 @@ He has decided you're worth it.
 
 # Part 2: Thanksgiving and Prayer
 
-### Quick recap
+_verses 15 - 22_
+
+## Quick recap
+
 We are
-1. Blessed - spiritually blessed, not just materially. 
+
+1. Blessed - spiritually blessed, not just materially.
 2. Chosen - God's plan since the beginning was to unite humanity with himself. This gives us assurance that his plan is unwavering.
 3. Adopted - Christians are adopted children of God to receive an eternal inheritance.
 
-**Love for all the saints**: Significantly, Paul gave thanks not for their love for God, but for their **love for all the saints**. The real evidence of God’s work in us is not the love we claim to have for Him, but our love for His people that others can see ([1 John 4:20](https://www.blueletterbible.org/kjv/1jo/4/20/s_1163020), [John 13:14](https://www.blueletterbible.org/kjv/jhn/13/14/s_1010014) and [John 13:34-35](https://www.blueletterbible.org/kjv/jhn/13/34-35/s_1010034)).
+## Paul’s Cause for Prayer
+
+_verse 15 - 16_
+
+> Therefore I also, after I heard of your faith in the Lord Jesus and your love for all the saints, do not cease to give thanks for you, making mention of you in my prayers
+
+We have a cause and effect here: Cause: "I heard of your faith in the Lord Jesus and your love for all the saints" Effect: : "I do not cease to give thanks for you, making mention of you in my prayers"
+
+> “If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another’s feet.
+
+_- John 13:14_
+
+> “By this all will know that you are My disciples, if you have love for one another.”
+
+_- John 13:35:_
+
+Your love for people is the evidence of your love for God. If you say that you love God, if you go to His church and attend Bible Studies that study Him and His will, but you cannot show love to your parents, siblings, teachers, classmates, coworkers, and fellow believers, you are not known by Jesus.
+
+_Matthew 7:23_
+
+> "I never knew you; depart from me"
+
+If you have constant friction with the people around you, carefully examine where it comes from. Are you doing everything you can to love those around you?
+
+## Paul’s Substance of Prayer
+
+_verses 17 - 23_
+
+In these verses, Paul shares his prayer for the readers. His prayer is very dense, let’s unpack it into sections:
+
+We’ll go through this first one together and then break out into groups. Pick one thing that Paul is praying for and unpack it into simpler terms. Tell us why this one stood out to you and what it means to you.
+
+### “The spirit of wisdom and revelation in the knowledge of Him”
+
+Questions:
+
+- Does earthly wisdom exist?
+- What are the differences between earthly wisdom and spiritual wisdom
+
+### “The eyes of your understanding being enlightened; That you may know what is the hope of His Calling”
+
+Give me your Eyes - Brandon Heath
+
+Do you know the hope of His Calling?
+
+### “What are the riches of the glory in His inheritance in the saints”
+
+We can be sure that the things on Earth won’t last, good or bad. But eternity with God is our inheritance.
+
+### “What is the exceeding greatness of His power toward us who believe.”
+
+Examples of God showing his great power to those who believe:
+
+- Elijah
+- Sickly woman in Matthew 9:22
+- Leper in Luke 17:19
+- Abraham
+
+## Summary
+
+_verses 22-23_
+
+And he put all things under his feet, and gave Him to be head over all things to the church, which is His body, the fullness of Him who fills in all.
+
+Jesus has won. Everything is under His feet.
+
+Not of our power, but of His.
+
+He is the head - the leader, we are the body - here to act out His will.
