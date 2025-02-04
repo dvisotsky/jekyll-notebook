@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 *2024-10-14* #john #bible_study 
 ___

@@ -1,4 +1,3 @@
-[Back](./index.md)
 # Recap
 We are at the end of Jesus' time with his disciples.
 He has spent time encouraging them and preparing them for the journey ahead.

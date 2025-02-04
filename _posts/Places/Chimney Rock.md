@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 ## food
 * Hubba Hubba Smokehouse

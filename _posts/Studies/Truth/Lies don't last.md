@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 > Better is a little with righteousness than great revenues with injustice.
 > Proverbs 16:8

@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 # Setting the scene
 It is 2 days before Passover

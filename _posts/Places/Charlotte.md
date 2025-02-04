@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 ## [[South End]]
 

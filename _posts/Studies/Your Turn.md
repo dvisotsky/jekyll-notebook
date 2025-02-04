@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 You will be creating your own Bible Study today on one of these historical figures:
 

@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 #bible_study #lesson 
 

@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 #Jonah #bible_study 
 

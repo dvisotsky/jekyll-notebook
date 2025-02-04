@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 #john #bible_study 
 # Session 1

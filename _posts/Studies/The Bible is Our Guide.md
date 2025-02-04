@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 Awana TnT 2 Lesson - 2.7
 April 12, 2024

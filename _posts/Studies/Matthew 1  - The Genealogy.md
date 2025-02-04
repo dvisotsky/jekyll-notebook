@@ -1,4 +1,3 @@
-[Back](./index.md)
 
 ## Prelude
 Matthew was a tax collector
