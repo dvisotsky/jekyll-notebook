@@ -1,6 +1,11 @@
 ---
 feed: show
 title: Studies.md
+date: 2025-02-06
+---
+---
+feed: show
+title: Studies.md
 date: 2025-02-05
 ---
 ---
