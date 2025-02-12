@@ -1,3 +1,8 @@
+---
+up: "[[John]]"
+prev: "[[John Chapter 07]]"
+next: "[[John Chapter 10]]"
+---
 
 #john #bible_study 
 ## The Adulterous Woman
