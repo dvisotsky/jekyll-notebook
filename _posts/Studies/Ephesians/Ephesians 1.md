@@ -1,6 +1,6 @@
 ---
 up: "[[Ephesians]]"
-next: "[[Ephesians 3]]"
+next: "[[Ephesians 2]]"
 tags:
   - bible_study
 ---
