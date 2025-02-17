@@ -1,6 +1,8 @@
 ---
 up: "[[John]]"
 prev: "[[John Chapter 18]]"
+tags:
+  - bible_study
 ---
 
 # Recap

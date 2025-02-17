@@ -1,3 +1,10 @@
+---
+up: "[[John]]"
+prev: "[[John Chapter 17]]"
+next: "[[John Chapter 21]]"
+tags:
+  - bible_study
+---
 # Recap
 Prayer - for unity and protection of Jesus' disciples
 What celebration is taking place?

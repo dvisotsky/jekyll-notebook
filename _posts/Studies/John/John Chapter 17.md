@@ -1,3 +1,10 @@
+---
+up: "[[John]]"
+prev: "[[John Chapter 16]]"
+next: "[[John Chapter 18]]"
+tags:
+  - bible_study
+---
 # Recap
 We are at the end of Jesus' time with his disciples.
 He has spent time encouraging them and preparing them for the journey ahead.
